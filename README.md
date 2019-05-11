@@ -1,2 +1,2 @@
 # VanguardJS
-Lightweight Javascript form validation
+Lightweight Javascript form validation framework.
